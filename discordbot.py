@@ -15,7 +15,7 @@ async def on_command_error(ctx, error):
 
 @bot.command()
 async def voivode(ctx):
-    await ctx.send('うんちぶりぶり')
+    await ctx.send('よろしくお願いします。クランにはBFVを起動していただきEscを押し、小隊タブからVoivode Draculsと検索していただき、色々すれば入れます。')
 
 
 bot.run(token)
